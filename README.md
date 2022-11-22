@@ -1,6 +1,6 @@
 # Solana Candy Machine V2 + Candy Shop
 
-This repo allows you to sell NFTs through Candy Machine V2 and host your own secondary marketplace with [Candy Shop](https://github.com/storyofsoft/Solana_NFT_marketplace).
+This repo allows you to sell NFTs through Candy Machine V2 and host your own secondary marketplace with [Candy Shop](https://github.com/Emerald2025/Solana_NFT_marketplace).
 
 Supports the following marketplace configurations:
 * Basic SOL marketplace
@@ -59,7 +59,7 @@ Vercel will automatically deploy new prod packages for each new commit.
 #### 1. Fork the project & clone it. Example:
 
 ```
-git clone https://github.com/Emerald2025/Solana_NFT_marketplace
+git clone [https://github.com/Emerald2025/Solana_NFT_marketplace](https://github.com/Emerald2025/Solana_NFT_marketplace)
 ```
 
 #### 2. Define your environment variables (.env file)
